@@ -1,6 +1,6 @@
 # SpectralShapeAnalysis
 
-![alt text](teaser.png)
+![alt text](teaser2.png)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/riccardomarin/SpectralShapeAnalysis/master)
 
