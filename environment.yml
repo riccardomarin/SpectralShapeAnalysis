@@ -9,4 +9,4 @@ dependencies:
   - matplotlib
   - scikit-learn
   - tensorflow
-  - opencv-python
+  - python-opencv
