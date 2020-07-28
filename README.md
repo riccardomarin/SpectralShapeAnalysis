@@ -11,9 +11,11 @@ Click on the Binder button above to lunch the environment for the exercises.
 ---
 
 ### Available Projects
-This is a (non-exaustive) list of possibilities for the final exam.
+This is a (non-exaustive) list of possibilities for the final exam. \
+[Coming Soon]
 
 ---
 
 ### References
-This is a (hopefully exaustive) list of resources that inspired our course.
+This is a (hopefully exaustive) list of resources that inspired our course.\
+[Coming Soon]
