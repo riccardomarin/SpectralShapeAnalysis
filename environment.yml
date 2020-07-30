@@ -8,5 +8,4 @@ dependencies:
   - networkx
   - matplotlib
   - scikit-learn
-  - tensorflow
   - opencv
